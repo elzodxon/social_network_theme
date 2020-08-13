@@ -60,7 +60,7 @@ img{
 //Landing
 .landing{
     position: relative;
-    background: url('../dist/img/background.jpg');
+    background: url('../img/background.jpg') no-repeat center center/cover;
     height: 100vh;
 
     &-inner{
